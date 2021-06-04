@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Fri Jun  4 21:40:39 2021
-
+OpenCV检测视频中的人脸
 @author: YuWei
 """
 
