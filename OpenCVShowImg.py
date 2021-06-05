@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Fri Jun  4 21:53:39 2021
-OpenCV打开图片，显示图片信息，并分离出RGB三个通道显示出来
+OpenCV打开图片，显示图片信息，并分离出BGR三个通道显示出来
 @author: YuWei
 """
 

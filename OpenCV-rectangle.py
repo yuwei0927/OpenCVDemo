@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Fri Jun  4 21:53:39 2021
-rectangle方法使用说明
+OpenCV 矩形框 rectangle方法使用说明
 @author: YuWei
 """
 
